@@ -1,0 +1,1 @@
+hjhgigit t config --global user.name "Your name"
